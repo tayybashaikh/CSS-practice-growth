@@ -1,0 +1,25 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#box{
+    background-color: purple;
+    color: white;
+}
+.heading{
+    color: red;
+}
+button{
+    background-color: green;
+    margin-top: 4px;
+    
+}
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#Outter{
+    size: 45px;
+}
+#Inner{
+    size: 1px;
+}

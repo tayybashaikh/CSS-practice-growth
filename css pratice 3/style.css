@@ -1,0 +1,48 @@
+ul{
+    height: 50px;
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+a{
+    color: black;
+    border: 2px;
+    background-color: aqua;
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+.Outter{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(250, 9, 139,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Inner{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(45, 125, 151,0.5);
+    align-self: self-start
+}
+
+#Love{
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+    background-image: url("https://i.pinimg.com/736x/78/49/5a/78495a449f91f2090e2f8e2607a98706.jpg");
+    background-size: cover;
+    position: fixed;
+    bottom: 2px;
+    right: 0px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    text-decoration: underline;
+}
